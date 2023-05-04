@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=augustin-grosnone&theme=onedark&column=-1">
+    <img src="https://github-profile-trophy.vercel.app/?username=augustin-grosnon&theme=onedark&column=-1">
   </a>
 </div>
 
