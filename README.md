@@ -7,7 +7,11 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,swift,ts,js,haskell,bash,java,rust,git,docker,linux,cmake,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust,java,swift,ts,js,haskell,bash,html" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=css,react,pytorch,git,github,docker,linux,windows,apple,cmake,vscode,githubactions" />
 </p>
 
 <div align="center">
